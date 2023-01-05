@@ -1,4 +1,4 @@
-___![banner](https://user-images.githubusercontent.com/120686440/210896605-c760b129-f9e5-4b1c-b283-7bdb1bcdbb60.png)
+![banner](https://user-images.githubusercontent.com/120686440/210896840-276439a8-e9c5-46b5-bd1e-c1c222a153b5.png)
 
 > Vanity Webhook Tool made by Blxdes00
 
