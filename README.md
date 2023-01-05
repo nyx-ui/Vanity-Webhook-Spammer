@@ -8,9 +8,9 @@ ___
 This is a simple Discord Webhook-Tool written in python.
 
 - [Description](#description)
-- [Features](current-features)
+- [Current Features](current-features)
 - [More ideas](what-i-want-to-add)
-- [How to use](how-to-use)
+- [How To Use](how-to-use)
 - [Other](other)
 
 ___
