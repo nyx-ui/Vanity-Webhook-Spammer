@@ -32,7 +32,7 @@ and more. (There are currently only these 2 features but im gonna update it soon
 - Webhook-Deleter
 - Webhook-Nuker
 - Whebhook-Checker (Custom message)
-- *More soon
+- _More soon_
 
 ___
 
