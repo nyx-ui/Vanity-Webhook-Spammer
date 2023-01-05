@@ -7,7 +7,11 @@ ___
 ### Setup and Stuff
 This is a simple Discord Webhook-Tool written in python.
 
-- [Description] (#description)
+- [Description](#description)
+- [Features](current-features)
+- [More ideas](what-i-want-to-add)
+- [How to use](how-to-use)
+- [Other](other)
 
 ___
 
