@@ -22,12 +22,12 @@ the tool has a Webhook-Spammer that spams a desired webhook with a custom messag
 a Webhook-Checker that checks if the webhook is working (If so, it will send a message saying that the webhook is working)
 and more. (There are currently only these 2 features but im gonna update it soon)
 
-#### Current Features
+## Current Features
 
 - Webhook-Spammer
 - Webhook-Checker
 
-#### What i want to add
+## What i want to add
 
 - Webhook-Deleter
 - Webhook-Nuker
