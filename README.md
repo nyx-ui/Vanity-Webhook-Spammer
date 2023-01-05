@@ -1,6 +1,6 @@
-# Vice-Webhook-Tools
+![Priject Image](project-image-url)
 
-> Vice Webhook tool made by Blxdes00
+> Vice Webhook Tool made by Blxdes00
 
 ___
 
@@ -39,4 +39,11 @@ Download the zip-file and unpack it, go into cmd and "cd" to the directory of th
 
 #### Usage
 Create a Discord Webhook and copy the Webhook URL, Select an option in the Webhook-Tool and paste in the Webhook URL
-and done, 
+and done, the tool is working.
+
+___
+
+#### Other
+If you have any questions/need help/have more ideas for the tool, Join the [discord](https://discord.gg/TDNYaWvyfZ)
+
+___
