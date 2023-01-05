@@ -1,6 +1,6 @@
 ![Priject Image](project-image-url)
 
-> Vice Webhook Tool made by Blxdes00
+> Vanity Webhook Tool made by Blxdes00
 
 ___
 
