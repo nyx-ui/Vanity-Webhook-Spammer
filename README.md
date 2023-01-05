@@ -1,4 +1,4 @@
-![Priject Image](project-image-url)
+___![banner](https://user-images.githubusercontent.com/120686440/210896605-c760b129-f9e5-4b1c-b283-7bdb1bcdbb60.png)
 
 > Vanity Webhook Tool made by Blxdes00
 
@@ -45,5 +45,3 @@ ___
 
 #### Other
 If you have any questions/need help/have more ideas for the tool, Join the [discord](https://discord.gg/TDNYaWvyfZ)
-
-___
