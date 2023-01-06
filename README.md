@@ -42,7 +42,7 @@ ___
 
 #### Installation
 Download the zip-file and unpack it, run setup.bat, go into CMD and "cd" to the directory of the
-folder then type: python vicewhook.py
+folder then type: python vanitywebhook.py
 
 #### Usage
 Create a Discord Webhook and copy the Webhook URL, Select an option in the Webhook-Tool and paste in the Webhook URL
