@@ -26,12 +26,12 @@ and more. (There are currently only these 2 features but im gonna update it soon
 
 - Webhook-Spammer
 - Webhook-Checker
+- Webhook-Deleter
 
 ## What i want to add
 
 - Better design
 - A GUI
-- Webhook-Deleter
 - Webhook-Nuker
 - Whebhook-Checker (Custom message)
 - _More soon_
