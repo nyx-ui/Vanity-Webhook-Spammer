@@ -41,7 +41,8 @@ ___
 ## How To Use
 
 #### Installation
-Download the zip-file and unpack it, go into cmd and "cd" to the directory of the folder then type: python vicewhook.py
+Download the zip-file and unpack it, go into cmd and "cd" to the directory of the
+folder then type: python vicewhook.py
 
 #### Usage
 Create a Discord Webhook and copy the Webhook URL, Select an option in the Webhook-Tool and paste in the Webhook URL
