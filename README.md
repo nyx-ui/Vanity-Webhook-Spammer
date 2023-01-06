@@ -41,7 +41,7 @@ ___
 ## How To Use
 
 #### Installation
-Download the zip-file and unpack it, run setup.bat, go into CMD and "cd" to the directory of the
+Download the zip-file and unpack it, first run install_python.bat then run setup.bat, go into CMD and "cd" to the directory of the
 folder then type: python vanitywebhook.py
 
 #### Usage
