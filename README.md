@@ -19,8 +19,8 @@ ___
 
 A Webhook Tool for Discord that i wrote in python,
 the tool has a Webhook-Spammer that spams a desired webhook with a custom message,
-a Webhook-Checker that checks if the webhook is working (If so, it will send a message saying that the webhook is working)
-and more. (There are currently only these 2 features but im gonna update it soon)
+a Webhook-Checker that checks if the webhook is working (If so, it will send a message saying that the webhook is working), 
+a Webhook-Deleter wich deletes the desired webhook and more. (There are currently only these 2 features but im gonna update it soon)
 
 ## Current Features
 
