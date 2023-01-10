@@ -40,7 +40,6 @@ while True:
                 data = {
                     "content": message
                 }
-                time.sleep(0.05)
 
             response = requests.post(webhook_url, json=data)
 
