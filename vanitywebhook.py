@@ -2,6 +2,8 @@ import os
 import requests
 import time
 
+
+
 while True:
 
     os.system('cls' if os.name=='nt' else 'clear')
@@ -24,18 +26,21 @@ while True:
         os.system('cls' if os.name=='nt' else 'clear')
 
         print("!   Webhook Spammer   !")
-        print("    This Tool doesnt work!! I need to fix this!!")
         print("")
         print("")
         print("")
         webhook_url = input("[+] Webhook url: ")
 
         spamming = True
-        while spamming:
+        if spamming == True:
             message = input("[+] Message to send: ")
-            data = {
-                "content": message
-            }
+            print("")
+            while spamming == True:
+
+                data = {
+                    "content": message
+                }
+                time.sleep(0.05)
 
             response = requests.post(webhook_url, json=data)
 
