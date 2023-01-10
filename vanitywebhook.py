@@ -41,7 +41,7 @@ while True:
                     "content": message
                 }
 
-            response = requests.post(webhook_url, json=data)
+                response = requests.post(webhook_url, json=data)
 
             print("")
             print("[+] Messages send")
