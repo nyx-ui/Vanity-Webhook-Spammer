@@ -51,5 +51,5 @@ and done, the tool is working.
 ___
 
 #### Other
-If you have any questions/need help/have more ideas for the tool, Join the [discord](https://discord.gg/TDNYaWvyfZ)
+If you have any questions/need help/have more ideas for the tool, Join the [discord](https://discord.gg/EfeqhFwpE3)
 - this tool is for educational purpose only, wehook tools are aganst Discord's ToS and can result in a Ban/Term.
