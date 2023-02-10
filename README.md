@@ -1,6 +1,6 @@
 ![banner](https://user-images.githubusercontent.com/120686440/210896840-276439a8-e9c5-46b5-bd1e-c1c222a153b5.png)
 
-> Vanity Webhook Tool made by Blxdes00
+> Vanity Webhook Tool made by Blxdes00 
 
 ___
 
@@ -53,3 +53,15 @@ ___
 #### Other
 If you have any questions/need help/have more ideas for the tool, Join the [discord](https://discord.gg/EfeqhFwpE3)
 - this tool is for educational purpose only, wehook tools are aganst Discord's ToS and can result in a Ban/Term.
+
+## Tags
+
+- #discord
+- #bot
+- #webhook
+- #webhookspammer
+- #nuker
+- #python
+- #discordnuker
+- #ganknuker
+- #slayer
